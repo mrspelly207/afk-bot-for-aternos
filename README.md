@@ -1,4 +1,6 @@
 # aternos-afkbot
+hey check upstream project, this specific repo is for my own server so get lost }!!
+
 Hi, this is a aternos bot which stays afk in your minecraft server.
 A full setup guide is a available at: https://docs.krushna.me so kindly refer to this as the setup below doesn't include hosting.
 #setup
